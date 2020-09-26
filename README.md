@@ -1,6 +1,7 @@
 ## 프로필
 
-![](./face.jpg = 500x500)
+<img src = "./face.jpg" width="40%">
+
 
 ##### 이메일
 hawoon206@kaist.ac.kr
