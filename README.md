@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Haun Kim
+## 프로필
 
-You can use the [editor on GitHub](https://github.com/Haun1206/Haun1206.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+김하운
+010-4557-6485
+생 년 월 일 : 1999년 12월 6일
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 학력사항
 
-### Markdown
+2019.02~ 한국과학기술원(KAIST) 전산학부 재학
+2018.02 한국과학기술원(KAIST) 입학
+2015.02 경남과학고등학교 입학
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 수강 완료 과목 
+이산 구조
+데이터 구조
+시스템 프로그래밍
+전산기 조직
+운영체제
+프로그래밍 언어
+기계학습
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Haun1206/Haun1206.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://github.com/haun1206 
