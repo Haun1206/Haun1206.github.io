@@ -1,6 +1,7 @@
 ## 프로필
 
 ![ex_screenshot](./face.jpg)
+
 ##### 이메일
 hawoon206@kaist.ac.kr
 
