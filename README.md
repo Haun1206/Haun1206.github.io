@@ -62,19 +62,19 @@ https://github.com/Haun1206
 
 ##### 몰입캠프 (2020.07.08 ~ 08.07)
 
-단어장 어플@
+단어장 어플 @ [week1] : https://github.com/ohsuz/madcamp_week1_TabApp.git
 <br>
 Tech Stack : Java(Android), PHP, MYSQL
 
-게시판 어플@
+게시판 어플 @ [week2] : https://github.com/Haun1206/madcam_week2.git
 <br>
 Tech Stack : Java(Android), NodeJs, MongoDB
 
-마스크 인식 및 경고 알람 어플@
+마스크 인식 및 경고 알람 어플 @ [week3] : https://github.com/jinh0290/MadCamp-week3.git
 <br>
-Tech Stack : Java(Android), NodeJs, MongoDB
+Tech Stack : Java(Android), NodeJs, MongoDB, detection models(facemaskdetector, face_recognition)
 
-2인용 전략 게임@
+2인용 전략 게임 @ [week4] : https://github.com/sungjin-shin/madcamp2020s-week4.git(현재 디렉토리 공유가 안되어 있음)
 <br>
 Tech Stack : C#(Unity)
 
