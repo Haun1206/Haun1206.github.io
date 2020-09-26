@@ -67,6 +67,3 @@ Tech Stack : Java(Android), NodeJs, MongoDB
 
 2인용 전략 게임@
 Tech Stack : C#(Unity)
-
-
-
