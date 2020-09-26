@@ -54,16 +54,20 @@ hawoon206@kaist.ac.kr
 
 ## 프로젝트
 
-### 몰입캠프 (2020.07.08 ~ 08.07)
+##### 몰입캠프 (2020.07.08 ~ 08.07)
 
 단어장 어플@
+<br>
 Tech Stack : Java(Android), PHP, MYSQL
 
 게시판 어플@
+<br>
 Tech Stack : Java(Android), NodeJs, MongoDB
 
 마스크 인식 및 경고 알람 어플@
+<br>
 Tech Stack : Java(Android), NodeJs, MongoDB
 
 2인용 전략 게임@
+<br>
 Tech Stack : C#(Unity)
