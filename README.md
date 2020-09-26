@@ -1,16 +1,23 @@
-# Haun Kim
 ## 프로필
+
+### 이메일
+hawoon206@kaist.ac.kr
+
+### 전화번호
 010-4557-6485
 
+### 출생
 1999.12.06
+
 
 ## 학력사항
 
-2019.02~ 한국과학기술원(KAIST) 전산학부 재학
+**2019.02~** 한국과학기술원(KAIST) 전산학부 재학
 
-2018.02 한국과학기술원(KAIST) 입학
+**2018.02**  한국과학기술원(KAIST) 입학
 
-2015.02 경남과학고등학교 입학
+**2015.02**  경남과학고등학교 입학
+
 
 ## 수강 완료 과목 
 이산 구조
@@ -27,4 +34,29 @@
 
 기계학습
 
-https://github.com/haun1206 
+
+## 언어
+
+**C**
+
+**Python**
+
+**Scala**
+
+
+## 프로젝트
+
+### 몰입캠프 (2020.07.08 ~ 08.07)
+
+단어장 어플@
+Tech Stack : Java(Android), PHP, MYSQL
+
+게시판 어플@
+Tech Stack : Java(Android), NodeJs, MongoDB
+
+마스크 인식 및 경고 알람 어플@
+Tech Stack : Java(Android), NodeJs, MongoDB
+
+2인용 전략 게임@
+Tech Stack : C#(Unity)
+
