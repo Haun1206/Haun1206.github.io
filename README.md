@@ -1,5 +1,6 @@
 ## 프로필
 
+![ex_screenshot](./face.jpg)
 ##### 이메일
 hawoon206@kaist.ac.kr
 
@@ -8,6 +9,9 @@ hawoon206@kaist.ac.kr
 
 ##### 출생
 1999.12.06
+
+##### GitHUb 주소
+https://github.com/Haun1206
 
 <br>
 <br>
