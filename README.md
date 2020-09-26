@@ -1,6 +1,6 @@
 ## 프로필
 
-![ex_screenshot](./face.jpg = 100x100)
+![ex_screenshot](./face.jpg = 500x500)
 
 ##### 이메일
 hawoon206@kaist.ac.kr
