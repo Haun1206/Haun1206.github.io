@@ -1,6 +1,6 @@
 ## 프로필
 
-<img src = "./face.jpg" width="40%">
+<img src = "./face.jpg" width="30%">
 
 
 ##### 이메일
