@@ -1,24 +1,24 @@
-## 프로필
+## Profile
 
 <img src = "./face.jpg" width="30%">
 
 
-##### 이메일
+##### E-mail
 hawoon206@kaist.ac.kr
 
-##### 전화번호
+##### Phone
 010-4557-6485
 
-##### 출생
+##### Birth
 1999.12.06
 
-##### GitHUb 주소
+##### GitHub
 https://github.com/Haun1206
 
 <br>
 <br>
 
-## 학력사항
+## Education
 
 **2019.02~** 한국과학기술원(KAIST) 전산학부 재학
 
@@ -29,25 +29,25 @@ https://github.com/Haun1206
 <br>
 <br>
 
-## 수강 완료 과목 
-이산 구조
+## Courses completed
+Discrete Mathematics
 
-데이터 구조
+Data Structure
 
-시스템 프로그래밍
+System Programming
 
-전산기 조직
+Computer Organization
 
-운영체제
+Operating Systems and Lab
 
-프로그래밍 언어
+Programming Language
 
-기계학습
+Machine Learning
 
 <br>
 <br>
 
-## 언어
+## Language
 
 **C**
 
@@ -58,9 +58,26 @@ https://github.com/Haun1206
 <br>
 <br>
 
-## 프로젝트
+## Assignments
 
-##### 몰입캠프 (2020.07.08 ~ 08.07)
+##### Machin Learning
+[ML](https://github.com/Haun1206/Machin_Learning)
+##### Programming Language
+[PL](https://github.com/Haun1206/Programming_Language)
+##### Operation System
+[OS](https://github.com/Haun1206/pintOS)
+##### Programming Structure for Electrical Engineering
+[PSEE](https://github.com/Haun1206/Programming-Structure-for-Electrical-Engineering)
+##### Introduction-to-Artificial-Intelligence
+[Intruduction to AI](https://github.com/Haun1206/Introduction-to-Artificial-Intelligence)
+
+
+
+
+
+## Projects
+
+##### Mad Camp (2020.07.08 ~ 08.07)
 
 단어장 어플 @ [week1](https://github.com/ohsuz/madcamp_week1_TabApp.git)
 <br>
