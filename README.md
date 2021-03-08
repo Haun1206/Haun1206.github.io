@@ -101,7 +101,9 @@ Tech Stack : C#(Unity)
 ##### Intern
 
 **Seloco (2020.12.21 ~ 2021.02.12)**
+<br>
 [실외 스마트 주차장 시스템](https://github.com/Haun1206/parking_system)
+<br>
 Python, OpenCV, Yolo, Mosquitto
 
 
