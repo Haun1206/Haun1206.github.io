@@ -76,7 +76,6 @@ Introduction to Artificial Intelligence
 <br>
 <br>
 
-
 ## Projects
 
 
