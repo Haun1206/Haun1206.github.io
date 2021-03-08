@@ -44,6 +44,8 @@ Programming Language
 
 Machine Learning
 
+Introduction to Artificial Intelligence
+
 <br>
 <br>
 
@@ -61,15 +63,15 @@ Machine Learning
 ## Assignments
 
 ##### Machin Learning
-[ML](https://github.com/Haun1206/Machin_Learning)
+[ML](https://github.com/Haun1206/Machin_Learning)(Pytorch)
 ##### Programming Language
-[PL](https://github.com/Haun1206/Programming_Language)
+[PL](https://github.com/Haun1206/Programming_Language)(Scala)
 ##### Operation System
-[OS](https://github.com/Haun1206/pintOS)
+[OS](https://github.com/Haun1206/pintOS)(C)
 ##### Programming Structure for Electrical Engineering
-[PSEE](https://github.com/Haun1206/Programming-Structure-for-Electrical-Engineering)
+[PSEE](https://github.com/Haun1206/Programming-Structure-for-Electrical-Engineering)(C)
 ##### Introduction-to-Artificial-Intelligence
-[Intruduction to AI](https://github.com/Haun1206/Introduction-to-Artificial-Intelligence)
+[Intruduction to AI](https://github.com/Haun1206/Introduction-to-Artificial-Intelligence)(Python)
 
 <br>
 <br>
@@ -94,6 +96,15 @@ Tech Stack : Java(Android), NodeJs, MongoDB, detection models(facemaskdetector, 
 2인용 전략 게임 @ [week4](https://github.com/sungjin-shin/madcamp2020s-week4.git)(현재 디렉토리 공유가 안되어 있음)
 <br>
 Tech Stack : C#(Unity)
+
+##### Intern
+
+**Seloco (2020.12.21 ~ 2021.02.12)**
+[실외 스마트 주차장 시스템](https://github.com/Haun1206/parking_system)
+Python, OpenCV, Yolo, Mosquitto
+
+
+
 
 
 
