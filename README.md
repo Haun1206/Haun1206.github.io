@@ -46,6 +46,13 @@ Machine Learning
 
 Introduction to Artificial Intelligence
 
+Introduction to Database
+
+Introduction to Computer Graphics
+
+Machine Learning for Natural Language Processing
+
+
 <br>
 <br>
 
