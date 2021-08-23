@@ -86,7 +86,6 @@ Machine Learning for Natural Language Processing
 
 ## Projects
 
-
 #### Mad Camp (2020.07.08 ~ 08.07)
 
 단어장 어플 @ [week1](https://github.com/ohsuz/madcamp_week1_TabApp.git)
