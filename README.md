@@ -112,6 +112,11 @@ Tech Stack : C#(Unity)
     [실외 스마트 주차장 시스템](https://github.com/Haun1206/parking_system)
 <br>
     Python, OpenCV, Yolo, Mosquitto
+    
+
+#### Web Study
+<br>
+    [Study Notion](https://www.notion.so/web-crash-study/2021-6a2a22d4d0f94951adcefefc44fd7af8)
 
 
 
