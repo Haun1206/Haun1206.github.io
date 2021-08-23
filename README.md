@@ -64,7 +64,7 @@ Machine Learning for Natural Language Processing
 
 **Scala**
 
-**JabaScript**
+**JavaScript**
 
 <br>
 <br>
