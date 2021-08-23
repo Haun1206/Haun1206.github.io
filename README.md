@@ -113,6 +113,7 @@ Tech Stack : C#(Unity)
     Python, OpenCV, Yolo, Mosquitto
     
 #### Web Study
+
    [Study Notion](https://www.notion.so/web-crash-study/2021-6a2a22d4d0f94951adcefefc44fd7af8)
 
 
