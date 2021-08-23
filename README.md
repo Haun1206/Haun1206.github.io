@@ -29,7 +29,6 @@ https://github.com/Haun1206
 <br>
 <br>
 
-
 ## Courses completed
 Discrete Mathematics
 
